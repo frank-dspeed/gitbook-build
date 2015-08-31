@@ -1,3 +1,5 @@
+# :warning: New version of the editor available at https://www.gitbook.com/editor
+
 # GitBook Editor
 
 This application is a simple editor for writing books. It's available for Windows, Linux (32 and 64bits) and Mac.
