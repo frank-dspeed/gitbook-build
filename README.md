@@ -1,3 +1,7 @@
+## Why? 
+I was Experimenting with Code Editors to improve my Code Editor Writing Skills.
+
+
 # :warning: New version of the editor available at https://www.gitbook.com/editor
 
 # GitBook Editor
